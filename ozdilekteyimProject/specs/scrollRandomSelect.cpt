@@ -1,0 +1,13 @@
+Created by testinium on 4.04.2022
+
+This is a concept file with following syntax for each concept.
+# İki defa scroll et ve rastgele bir urun sec
+* sayfa boyunca scroll et
+* "3" saniye bekle
+* sayfa boyunca scroll et
+* "3" saniye bekle
+* "//android.widget.ImageView[@resource-id='com.ozdilek.ozdilekteyim:id/imageView']" xpath'te bulunan sayfada gorunen tum urunleri bul ve rastgele bir urune tikla
+* "3" saniye bekle
+//* Product sayfasi kontrol
+* "com.ozdilek.ozdilekteyim:id/imgCart"Product sayfasi kontrol
+* "com.ozdilek.ozdilekteyim:id/imgFav" elemetin sayfada gorunur oldugunu kontrol et ve tikla

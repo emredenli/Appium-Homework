@@ -1,0 +1,11 @@
+Created by testinium on 4.04.2022
+
+This is a concept file with following syntax for each concept.
+# Login sayfasinda islemleri yap
+//* Login kontrol
+* "com.ozdilek.ozdilekteyim:id/btnLogin"Login kontrol
+* "3" saniye bekle
+* "com.ozdilek.ozdilekteyim:id/etEposta" Id'li elemente "text" degerini yaz
+* "3" saniye bekle
+* "com.ozdilek.ozdilekteyim:id/etPassword" Id'li elemente "12345" degerini yaz
+* "3" saniye bekle

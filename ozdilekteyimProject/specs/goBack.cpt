@@ -1,0 +1,8 @@
+Created by testinium on 4.04.2022
+
+This is a concept file with following syntax for each concept.
+# İki defa geri git
+* "com.ozdilek.ozdilekteyim:id/ivBack" elemetin sayfada gorunur oldugunu kontrol et ve tikla
+* "3" saniye bekle
+* "com.ozdilek.ozdilekteyim:id/ivBack" elemetin sayfada gorunur oldugunu kontrol et ve tikla
+* "3" saniye bekle

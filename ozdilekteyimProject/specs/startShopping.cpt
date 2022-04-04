@@ -1,0 +1,13 @@
+Created by testinium on 4.04.2022
+
+This is a concept file with following syntax for each concept.
+# Alisverise basla
+* "5" saniye bekle
+* "com.ozdilek.ozdilekteyim:id/tv_startShoppingStore"Acilis sayfasi Kontrol
+* "2" saniye bekle
+* "com.ozdilek.ozdilekteyim:id/tv_startShoppingStore" elemetin sayfada gorunur oldugunu kontrol et ve tikla
+* "3" saniye bekle
+* "com.ozdilek.ozdilekteyim:id/relLayStore"Alisveris sayfasi kontrol
+* "com.ozdilek.ozdilekteyim:id/nav_categories" elemetin sayfada gorunur oldugunu kontrol et ve tikla
+* "3" saniye bekle
+*"//android.widget.LinearLayout[@content-desc='Kategoriler']"Kategori Sayfasi Kontrol

@@ -1,0 +1,8 @@
+Created by testinium on 4.04.2022
+
+This is a concept file with following syntax for each concept.
+# Rastgele bir urun sec ve sepete ekle
+* "//android.widget.ImageView[@resource-id='com.ozdilek.ozdilekteyim:id/imageView']" xpath'te bulunan sayfada gorunen tum urunleri bul ve rastgele bir urune tikla
+* "3" saniye bekle
+* Sepete ekle
+* "3" saniye bekle

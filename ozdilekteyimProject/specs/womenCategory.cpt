@@ -1,0 +1,8 @@
+Created by testinium on 4.04.2022
+
+This is a concept file with following syntax for each concept.
+# Kadin kategorisinde pantolon sayfasina git
+* "//android.widget.RelativeLayout[@index=1]" xpath'li elemente tikla
+* "3" saniye bekle
+* "//android.widget.TextView[@text='Pantolon']" xpath'li elemente tikla
+* "3" saniye bekle
